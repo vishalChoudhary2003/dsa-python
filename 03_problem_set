@@ -1,0 +1,6 @@
+a = input("Enter value of first one:")
+
+b = input("Enter value of second one:")
+
+
+print ("the type of a and b value=",type (a),type(b))
