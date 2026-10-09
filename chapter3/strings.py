@@ -2,5 +2,5 @@ name="vishal"
 print(name)
 nameshort=name[0:3]
 print(nameshort)
-character1=name[1]
+character1=name[4]
 print(character1)
